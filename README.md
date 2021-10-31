@@ -25,11 +25,18 @@
 
 <br>
 
-### Desktop
+v
 
 <p align="center">
     <img alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" 
-    src="https://github.com/Wanderson-A-Timoteo/nlw-heat-origin/blob/main/.gitbub/desktop.PNG?raw=true" />
+    src="https://github.com/Wanderson-A-Timoteo/cracha-virtual-dowhile-2021/blob/main/.gitbub/nlw-heat.png?raw=true" />
+</p>
+
+<br>
+
+<p align="center">
+    <img alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" 
+    src="https://github.com/Wanderson-A-Timoteo/cracha-virtual-dowhile-2021/blob/main/.gitbub/WandersonTimoteo.gif?raw=true" />
 </p>
 
 <br>
@@ -37,13 +44,9 @@
 ### Mobile
 
 <p align="center">
-    <img width="200" heigth="300"
-    alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" 
-    src="https://github.com/Wanderson-A-Timoteo/nlw-heat-origin/blob/main/.gitbub/mobile.PNG?raw=true" />
+    <img alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" 
+    src="https://github.com/Wanderson-A-Timoteo/cracha-virtual-dowhile-2021/blob/main/.gitbub/mobile.png?raw=true" />
 </p>
-
-<br>
-
 ---
 
 ## 🚀 Tecnologias
