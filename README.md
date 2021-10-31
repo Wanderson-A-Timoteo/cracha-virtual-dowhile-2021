@@ -44,8 +44,8 @@ v
 ### Mobile
 
 <p align="center">
-    <img alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" 
-    src="https://github.com/Wanderson-A-Timoteo/cracha-virtual-dowhile-2021/blob/main/.gitbub/mobile.png?raw=true" />
+    <img width="200" heigth="300" alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" 
+    src="https://github.com/Wanderson-A-Timoteo/cracha-virtual-dowhile-2021/blob/main/.gitbub/mobile.PNG?raw=true" />
 </p>
 ---
 
@@ -56,6 +56,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction)
+- [Animate CSS](https://github.com/animate-css/animate.css)
+- [Vanilla-tilt](https://micku7zu.github.io/vanilla-tilt.js/index.html)
 - [API GitHub](https://api.github.com/)
 
 ---
@@ -99,6 +101,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 Feito com ♥ by
 
 -  [**Wanderson A. Timóteo**](https://wanderson.tk)
+- Crédito ao projeto [João Inácio Neto](https://github.com/birobirobiro)
 
 <br>
 
